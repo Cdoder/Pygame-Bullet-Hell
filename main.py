@@ -1,14 +1,3 @@
-# Resources:
-# https://realpython.com/pygame-a-primer/#pygame-concepts
-# https://www.pygame.org/docs/ref/key.html
-
-
-# Challenges encountered:
-# - Using a circular character rather than a rectangular one
-# - Collision detection between bullets and player
-# - Bullets going far too fast
-
-
 import random
 import math
 import pygame
